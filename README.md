@@ -31,6 +31,8 @@ This is a web based application developed for insurance related website
 ![Screenshot 2022-03-20 085342](https://user-images.githubusercontent.com/101959591/159146667-02037d08-8572-46fe-b3dd-3e52b3b52887.jpg)
 
 
+### Terms & conditions -
+![Screenshot 2022-03-20 204437](https://user-images.githubusercontent.com/101959591/159169283-19e78ec6-c035-4f56-8fa5-a38df1dd71a1.jpg)
 
 
 ### Privacy policy -
